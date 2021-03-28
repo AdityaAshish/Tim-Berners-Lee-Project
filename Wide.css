@@ -1,0 +1,26 @@
+#Tim {
+    border-bottom-left-radius: 25%;
+    border-top-right-radius: 25%;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    height: 300px;
+    width: 250px;
+    
+}
+
+body {
+    background: linear-gradient(#5f9925, #0f571b);
+    text-align: center;
+        
+}
+
+#Div {
+    height: 4px;
+    width: 200px;
+    background-color: black;
+    margin-left: 600px;
+}
+
+p {
+    font-family:cursive;
+}
